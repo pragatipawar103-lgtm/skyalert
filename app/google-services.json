@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "631511231541",
-    "project_id": "sky-alert-3d15d",
-    "storage_bucket": "sky-alert-3d15d.firebasestorage.app"
+    "project_number": "",
+    "project_id": "sky-alert-3d",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:631511231541:android:c1b4966647e84db418157c",
+        "mobilesdk_app_id": "c",
         "android_client_info": {
           "package_name": "com.example.skyalert"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBPkQB-5dmgR-4KPGgC4BKcqGFKr9WIn3A"
+          "current_key": ""
         }
       ],
       "services": {
